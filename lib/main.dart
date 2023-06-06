@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:linkse_result_page/utils/helper.dart';
-import 'package:linkse_result_page/view/inspection_result.dart';
+import 'package:linkse_result_page/view/pages/inspection_result.dart';
 
 void main() {
   runApp(const MyApp());
